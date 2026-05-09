@@ -1,0 +1,15 @@
+Role of Weights and Biases
+
+Weights help the neural network learn relationships between input features and the target variable. Biases allow the model to shift activation values and improve flexibility during learning.
+
+Importance of Activation Function
+
+Activation functions introduce non-linearity into the model. Without activation functions, the neural network would behave like a simple linear model and would not learn complex patterns.
+
+Effect of Learning Rate
+
+If the learning rate is too high, the model may overshoot the optimal solution and fail to converge properly. If the learning rate is too low, training becomes very slow and may get stuck before reaching the best solution.
+
+Underfitting or Overfitting
+
+The model showed slight overfitting because training accuracy was higher than testing accuracy. However, the gap was not extremely large, indicating that the model generalized reasonably well.
